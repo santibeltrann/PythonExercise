@@ -56,7 +56,7 @@ Cada cuaderno incluye:
 2. Contar con Jupyter Notebook o Jupyter Lab.
 3. Clonar el repositorio:
    ```
-   git clone <URL-del-repositorio>
+   git clone https://github.com/santibeltrann/PythonExercise.git
    ```
 4. Acceder a la carpeta del proyecto y ejecutar:
    ```
